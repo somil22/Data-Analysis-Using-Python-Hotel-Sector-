@@ -1,1 +1,2 @@
 # Data-Analysis-Using-Python-Hotel-Sector-
+In addressing high hotel cancellation rates, this Python project, executed on Jupyter Notebook, utilized pandas, matplotlib, and seaborn. The analysis identified crucial insights, informing strategies like revisiting pricing, introducing discounts, and elevating quality. These initiatives aim to significantly reduce cancellations, optimizing revenue and enhancing guest satisfaction in the hotel sector.
